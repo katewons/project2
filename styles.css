@@ -12,10 +12,10 @@ p {
 /** here I am formatting the pictures to make them round and cropped, all images will have the same format **/
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
-    border-radius: 40px;
+    border-radius: 25px;
     margin: 10px;
 }
 
