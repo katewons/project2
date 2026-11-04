@@ -33,7 +33,8 @@ img {
   background-color: #fff7e8; /** hex codes also work for colors **/
 }
 
-#unique-id {
+/** here i am creating a unique id to format the appearance of all of our links **/
+#link-id {
   font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
   text-align: center;
 }
