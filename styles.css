@@ -9,13 +9,13 @@ p {
   color: red;
   text-align: center;
 }
-/** CSS comments are written enclosed with these characters **/
+/** here I am formatting the pictures to make them round and cropped, all images will have the same format **/
 
 img {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border-radius: 15px;
+    border-radius: 30px;
     margin: 10px;
 }
 
