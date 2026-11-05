@@ -1,16 +1,18 @@
 body {
-  background-color: powderblue;
+  background-color: #FCD0CD;
 }
+
 h1 {
   color: blue;
   text-align: center;
 }
+
 p {
   color: red;
   text-align: center;
 }
-/** here I am formatting the pictures to make them round and cropped, all images will have the same format **/
 
+/** here I am formatting the pictures to make them round and cropped, all images will have the same format **/
 img {
     width: 300px;
     height: 300px;
@@ -19,15 +21,13 @@ img {
     margin: 15px;
 }
 
-/* Center individual images */
+/* Centering individual images */
 .center-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
-
-
 
 .myclass {
   background-color: #fff7e8; /** hex codes also work for colors **/
