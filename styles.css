@@ -35,6 +35,7 @@ unique_id {
   background-color: #fff7e8;
 }
 
+/** creating a class to center text to use for link formatting**/
 .text_center {
   text-align: center;
 }
