@@ -43,4 +43,5 @@ unique_id {
 .link_class {
   font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
   color: #B2A659; 
+  font-size: large
 }
