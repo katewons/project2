@@ -42,7 +42,7 @@ unique_id {
 
 /** here i am creating a class to format the appearance of all of our different links **/
 .link_class {
-  font-family: Georgia, Times New Roman, sans-serif;
+  font-family: Georgia, sans-serif;
   color: #B2A659; 
   font-size: large
 }
