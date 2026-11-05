@@ -31,11 +31,11 @@ img {
     width: 50%;
 }
 
-.myclass {
-  background-color: #fff7e8; /** hex codes also work for colors **/
+unique_id {
+  background-color: #fff7e8;
 }
 
-/** here i am creating a unique id to format the appearance of all of our different links **/
+/** here i am creating a class to format the appearance of all of our different links **/
 .link_class {
   font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
   text-align: center;
