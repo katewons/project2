@@ -7,11 +7,15 @@ body {
 h1 {
   color: #464819;
   text-align: center;
+  font-family: Monospace;
+  font-size: 300%
 }
 
 p {
   color: red;
   text-align: center;
+  font-family: Monospace;
+  font-size: 110%
 }
 
 /** here I am formatting the pictures to make them round and cropped, all images will have the same format **/
