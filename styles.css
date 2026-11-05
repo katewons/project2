@@ -3,8 +3,9 @@ body {
   background-color: #F3ECC7;
 }
 
+/** setting header text color to dark green **/
 h1 {
-  color: blue;
+  color: #464819;
   text-align: center;
 }
 
